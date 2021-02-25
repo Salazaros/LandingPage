@@ -10,3 +10,34 @@ body *{
     color:  #FFC300 !important;
     text-shadow: 0.1em 0.1em 0.05em rgba(161, 157, 157, 0.432);
 }
+
+
+/* DESCRIPCION */
+
+#content #description h5,
+#content #description h2,
+#content #description p,
+#content #description a{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+
+/* FOTOGRAPHI */
+
+#content #fotographi img{
+    margin-left: 30px;
+    margin-top: 70px;
+    width: 400px;
+}
+
+/* ICONS */
+
+#content #icon i{
+    font-size: 20px;
+}
+
+#content #icon i:hover{
+    cursor: pointer;
+    color: #FFC300 !important;
+}
