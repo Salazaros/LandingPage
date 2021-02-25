@@ -2,3 +2,10 @@ body *{
     margin: opx;
     padding: opx;
 }
+
+/* HEADER MENU */
+
+#header #menu a:hover{
+    color: #ffc300 !important;
+    text-shadow: 0.1em 0.1em 0.05em rgba(161, 157, 157, 0.432);
+}
