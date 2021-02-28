@@ -41,3 +41,26 @@ body *{
     cursor: pointer;
     color: #FFC300 !important;
 }
+
+/* HABILIDADES */
+
+#habilidades #hab_fotografia img{
+    width: 270px;
+    margin: 0 auto;
+}
+
+.progress-ajust{
+    border-radius: 50rem;
+    height: 1em;
+}
+
+#habilidades .txt-vertical{
+    text-orientation: inherit;
+    transform: rotate(270deg);
+    margin-left: 70px;
+}
+
+#habilidades .estadisticas{
+    margin-left: -70px;
+}
+
