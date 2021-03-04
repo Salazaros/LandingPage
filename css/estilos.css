@@ -64,3 +64,36 @@ body *{
     margin-left: -70px;
 }
 
+
+/* AREA DE EXPERIENCIA */
+
+#cards .cards-experiencia{
+    border: 1px solid rgba(22, 21, 21, 0.473);
+    box-shadow: 1px 1px 10px rgb(34, 34, 34);
+}
+
+#cards .cards-experiencia:hover{
+    cursor: pointer;
+    box-shadow: 3px 3px 20px rgb(19, 18, 18);
+    border: 2px solid rgba(22, 21, 21, 0.473);
+}
+
+#cards .cards-experiencia:hover h5{
+    color:#FFC300 !important;
+}
+
+#cards .cards-experiencia:hover i{
+    font-size: 32px !important;
+}
+
+#carousel-cards ol li{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.carousel-indicators .active{
+    background: #ffc400c5;
+}
+
+
