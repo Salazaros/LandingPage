@@ -113,3 +113,18 @@ body *{
  #destacados .galeria h5{
      cursor: pointer;
  }
+
+ /* RESUMEN */
+
+ #resumen .card{
+     background: rgba(34, 34, 34, 0.39);
+     border: 1px solid rgba(34, 34, 34, 0.473);
+     border-radius: 3px;
+ }
+
+ #resumen .card:hover{
+    cursor: pointer;
+    background:  rgba(56, 56, 56, 0.404);
+    box-shadow: 3px 3px 20px rgb(19, 18, 18);
+ }
+
