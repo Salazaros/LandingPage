@@ -128,3 +128,31 @@ body *{
     box-shadow: 3px 3px 20px rgb(19, 18, 18);
  }
 
+
+ /* TESTIMONIOS */
+
+ #testimonios .cards-testimonios img{
+     width: 50px;
+     border-radius: 50%;
+ }
+
+ #testimonios .cards-testimonios{
+     background: rgba(34, 33, 33, 0.637);
+ }
+
+ #carousel-testimonios ol li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+#testimonios .clientes .clientes-logo:hover{
+    background: rgba(34, 33, 33, 0.637);
+    border: 1px solid #333;
+    box-shadow: 2px 2px 20px rgba(255, 238, 1, 0.445);
+    cursor: pointer;
+}
+
+#testimonios .clientes .clientes-logo:hover i{
+    color: #FFC300 !important;
+}
