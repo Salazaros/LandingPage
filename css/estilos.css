@@ -148,7 +148,6 @@ body *{
 
 #testimonios .clientes .clientes-logo:hover{
     background: rgba(34, 33, 33, 0.637);
-    border: 1px solid #333;
     box-shadow: 2px 2px 20px rgba(255, 238, 1, 0.445);
     cursor: pointer;
     border-radius: 7px;
