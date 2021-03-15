@@ -148,12 +148,40 @@ body *{
 
 #testimonios .clientes .clientes-logo:hover{
     background: rgba(34, 33, 33, 0.637);
-    border: 1px solid #333;
     box-shadow: 2px 2px 20px rgba(255, 238, 1, 0.445);
     cursor: pointer;
     border-radius: 7px;
 }
 
 #testimonios .clientes .clientes-logo:hover i{
+    color: #FFC300 !important;
+}
+
+
+/* ULTIMAS NOTICIAS */
+
+#ultimas-noticias .noticias h5{
+    margin-top: -16px;
+}
+
+#ultimas-noticias .noticias .cards-noticias p{
+font-size: 12px;
+}
+
+#ultimas-noticias .noticias a{
+    text-decoration: none;
+}
+
+#ultimas-noticias .noticias .cards-noticias{
+    background: rgba(34, 33, 33, 0.637);
+}
+
+#ultimas-noticias .noticias .cards-noticias:hover{
+    cursor: pointer;
+    background: rgba(34, 33, 33, 0.452);
+    box-shadow: 3px 3px 20px rgb(19, 18, 18);
+}
+
+#ultimas-noticias .noticias .cards-noticias:hover h3{
     color: #FFC300 !important;
 }
