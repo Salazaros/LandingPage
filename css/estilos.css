@@ -185,3 +185,28 @@ font-size: 12px;
 #ultimas-noticias .noticias .cards-noticias:hover h3{
     color: #FFC300 !important;
 }
+
+/* CONTACTOS */
+
+#contacto .contacto-txt .iconos-contacto i:hover{
+    cursor: pointer;
+    color: #FFC300 !important;
+}
+
+
+#contacto .input-contacto{
+    background: rgba(34, 33, 33, 0.452);
+    box-shadow: 2px 2px 20px rgb(19, 18, 18);
+}
+
+#contacto .input-contacto input{
+    background: none;
+    border: none;
+    border-bottom: 2px solid rgba(34, 33, 33, 0.452);
+}
+
+/* PIE DE PAGINA */
+
+footer{
+    background: rgba(34, 33, 33, 0.452);
+}
